@@ -1,3 +1,5 @@
+[![Python 3.5](https://img.shields.io/badge/Python-3.5-yellow.svg)](http://www.python.org/download/) 
+
 # Scanner
 <p>Tool For Scanning Open Ports!</p>
 
@@ -12,9 +14,16 @@
 </ul>
 </div>
 
-# Install
-<div class="desc" style="background: red;">
-<p>git clone https://github.com/anon-sec/Scanner.git</p>
-<p>cd Port_Scanner</p>
-<p>pip install -r requirments.txt</p>
-<p>python3 Portscanner.py</p>
+
+## Install
+```bash
+git clone https://github.com/anon-sec/Scanner.git
+cd Scanner
+pip3 install -r requirements.txt
+python3 Portscanner.py 
+```
+
+### Contact us
+- Youtube Channel : https://www.youtube.com/channel/UCU-xQ_Z1_HkaZSm-Z9jOs9g
+- Channel Telegram : https://t.me/ANONYMOU52021
+
